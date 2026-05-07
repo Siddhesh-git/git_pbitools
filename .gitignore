@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.sqlite
+*.db
+
+# Power BI cache/temp
+*.cache
+*.tmp
+*.log
+
+# Build folders
+bin/
+obj/
+
+# User files
+*.user
+*.suo
